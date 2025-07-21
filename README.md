@@ -32,4 +32,4 @@ This project explores unsupervised machine learning techniques for clustering re
 
 ---
 
-✅ Submitted by **Sathwik Shivaprasad**
+✅ Submitted by **Sathwik S**
