@@ -1,6 +1,7 @@
 # 🍽️ Zomato Restaurant Clustering and Sentiment Analysis
 
-This project explores unsupervised machine learning techniques for clustering restaurants based on metadata and analyzing user review sentiments.
+This project is all about using machine learning to group similar Zomato restaurants together and understand what people are saying in their reviews.
+We used clustering to find patterns in restaurant data, and sentiment analysis to check if reviews are positive or negative.
 
 ## 📂 Dataset
 - `Zomato Restaurant Metadata.csv`
