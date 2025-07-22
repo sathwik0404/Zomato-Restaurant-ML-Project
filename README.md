@@ -8,12 +8,12 @@ We used clustering to find patterns in restaurant data, and sentiment analysis t
 - `Zomato Restaurant Reviews.csv`
 
 ## 🧠 ML Pipeline
-*Cleaned the data – removed missing values and unnecessary columns
-*Preprocessed text reviews – removed stopwords, punctuation, and converted to lowercase
-*Clustered restaurants using K-Means (unsupervised ML)
-*Analyzed review sentiments using TF-IDF and ML models like Logistic Regression & Random Forest
-*Engineered features to help models learn better
-*Checked accuracy and improved models using hyperparameter tuning
+- Cleaned the data – removed missing values and unnecessary columns
+- Preprocessed text reviews – removed stopwords, punctuation, and converted to lowercase
+- Clustered restaurants using K-Means (unsupervised ML)
+- Analyzed review sentiments using TF-IDF and ML models like Logistic Regression & Random Forest
+- Engineered features to help models learn better
+- Checked accuracy and improved models using hyperparameter tuning
 
 
 
