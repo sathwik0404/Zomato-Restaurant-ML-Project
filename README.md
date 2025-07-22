@@ -24,9 +24,6 @@ We used clustering to find patterns in restaurant data, and sentiment analysis t
 - Accuracy, F1 Score, Confusion Matrix
 - Cross-Validation & Hyperparameter Tuning
 
-## 🔗 Project Files
-- [`Notebook (.ipynb)`](Copy_of_Sample_ML_Submission_Template%20(2).ipynb)
-- [`Submission PDF`](Copy%20of%20Sample_ML_Submission_Template.ipynb%20-%20Colab.pdf)
 
 ## 🧪 Colab Notebook
 - You can run the notebook on [Google Colab](https://colab.research.google.com/)
